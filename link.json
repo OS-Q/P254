@@ -22,11 +22,11 @@
   "frameworks": {
     "mbed": {
       "package": "framework-mbed",
-      "script": "builder/frameworks/mbed.py"
+      "script": "extend/frameworks/mbed.py"
     },
     "zephyr": {
       "package": "framework-zephyr",
-      "script": "builder/frameworks/zephyr.py"
+      "script": "extend/frameworks/zephyr.py"
     }
   },
   "packages": {
